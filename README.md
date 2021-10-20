@@ -1,4 +1,6 @@
-<img alt="banner" src="doge sky.jpg">
+<p align="center">
+  <img alt="banner" src="doge sky.jpg" height="500">
+</p>
 
 Hi there ✋!
 
