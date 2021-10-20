@@ -1,3 +1,5 @@
+<img alt="banner" src="doge sky.jpg">
+
 Hi there ✋!
 
 ## About
