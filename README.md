@@ -2,7 +2,7 @@
   <img alt="banner" src="doge sky.jpg" height="400" width="700">
 </p>
 
-Hi there ✋!
+# Hi there ✋!
 
 ## About
 I'm a college student currently learning database management and web application. I'm still learning and I don't think highly of my skills so please don't bully me 😢
