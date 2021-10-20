@@ -28,7 +28,16 @@ When I'm not busy I can be found:
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MaterialUI-007fff?style=for-the-badge&logo=materialui&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-ff6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+
+## Projects
+Here are some of my projects that I have made which I consider to be 'okay'
+
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=areyoudepressed&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
 
 
