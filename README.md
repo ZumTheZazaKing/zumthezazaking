@@ -60,7 +60,7 @@ Here are some of my projects that I have made which I consider to be 'okay'
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/zumthezazaking)
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/puroguramaz)
 [<img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:zahidi85543@gmail.com)
-[<img alt="Discord" src="https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://github.com/zumthezazaking)
+[<img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://github.com/zumthezazaking)
 
 
 
