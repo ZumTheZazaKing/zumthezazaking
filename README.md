@@ -39,11 +39,6 @@ Here are some of my projects that I have made which I consider to be 'okay'
 
 <p>
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?       username=zumthezazaking&repo=areyoudepressed&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?       username=zumthezazaking&repo=shoutingplace&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=qtpi-online&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?       username=zumthezazaking&repo=hangman&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?       username=zumthezazaking&repo=react-meme-generator&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?       username=zumthezazaking&repo=weather-app&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </p>
 
 
