@@ -61,7 +61,7 @@ Here are some of my projects that I have made which I consider to be 'okay'
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/puroguramaz)
 [<img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:zahidi85543@gmail.com)
 [<img alt="Reddit" src="https://img.shields.io/badge/reddit-%23ff45002.svg?&style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/puroguramaz)
-[<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/zumthezazaking/)
+[<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/zumthezazaking/)
 
 
 
