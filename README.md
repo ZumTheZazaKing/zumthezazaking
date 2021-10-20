@@ -64,6 +64,14 @@ Here are some of my projects that I have made which I consider to be 'okay'
 [<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/zumthezazaking/)
 
 
+---
+<p align="center"> © 2021 ZumTheZazaKing, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">
+https://zumthezazaking.netlify.app
+</p>
+
+
+
 
 
 
