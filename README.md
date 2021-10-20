@@ -7,10 +7,10 @@ I'm a college student currently learning database management and web application
 ## Hobbies
 When I'm not busy I can be found:
 
-💻.  Programming
-📚.  Reading
-🎮.  Gaming
-🖋.  Writing
+💻.  Programming  
+📚.  Reading  
+🎮.  Gaming  
+🖋.  Writing  
 👁.  Staring into the infinite void
 
 
