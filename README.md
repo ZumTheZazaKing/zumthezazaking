@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><img alt="banner" src="doge sky.jpg" height="400" width="700"></a>
+  <img alt="banner" src="doge sky.jpg" height="400" width="700">
 </p>
 
 # Hi there ✋!
