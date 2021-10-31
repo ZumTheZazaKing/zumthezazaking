@@ -27,7 +27,7 @@ When I'm not busy I can be found:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-339933?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MaterialUI-007fff?style=for-the-badge&logo=materialui&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-ff6699?style=for-the-badge&logo=sass&logoColor=white" />
