@@ -35,7 +35,7 @@ When I'm not busy I can be found:
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-%23059BE5?style=for-the-badge&logo=firebase&logoColor=FFCB2B" />
-  <img src="https://img.shields.io/badge/Sanity-%23059BE5?style=for-the-badge&logo=sanity&logoColor=FFCB2B" />
+  <img src="https://img.shields.io/badge/Sanity-%23059BE5?style=for-the-badge&logo=sanitydotio&logoColor=FFCB2B" />
 </p>
 
 
