@@ -11,12 +11,12 @@ I'm a college student currently learning database management and web application
 ## Hobbies
 When I'm not busy I can be found:
 
-💻.  Programming  
-📚.  Reading  
-🎮.  Gaming  
-🖋.  Writing
-📱.  Playing with my phone
-👁.  Staring into the infinite void
+💻.  Programming<br/>
+📚.  Reading<br/>
+🎮.  Gaming<br/>
+🖋.  Writing<br/>
+📱.  Playing with my phone<br/>
+👁.  Staring into the infinite void<br/>
 
 
 ## Current Skills
