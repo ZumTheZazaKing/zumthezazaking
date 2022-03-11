@@ -15,7 +15,7 @@ When I'm not busy I can be found:
 📚.  Reading  
 🎮.  Gaming  
 🖋.  Writing
-📱.  Playing with my phone 
+📱.  Playing with my phone
 👁.  Staring into the infinite void
 
 
