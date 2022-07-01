@@ -30,7 +30,7 @@ Here are some of my projects that I have made which I consider to be 'okay'
 
 <p align="center">
   <a href="https://github.com/ZumTheZazaKing/areyoudepressed"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=areyoudepressed&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="http://github.com/ZumTheZazaKing/zumtube"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=zumtube&theme=tokyonight&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="http://github.com/ZumTheZazaKing/zumtube"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=zumtube&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/ZumTheZazaKing/notiz"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=notiz&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/ZumTheZazaKing/hangman"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=hangman&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/ZumTheZazaKing/react-meme-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=react-meme-generator&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
