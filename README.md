@@ -35,7 +35,7 @@ Here are some of my projects that I have made which I consider to be 'okay'
 	
   <a href="https://github.com/ZumTheZazaKing/notiz"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=notiz&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 	
-  <a href="https://github.com/ZumTheZazaKing/3dcovid"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=3dcovid&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/ZumTheZazaKing/covid3d"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=covid3d&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 	
   <a href="https://github.com/ZumTheZazaKing/react-meme-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=react-meme-generator&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 	
