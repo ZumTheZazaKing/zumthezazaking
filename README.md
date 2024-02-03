@@ -25,19 +25,6 @@ When I'm not busy I can be found:
 </p>
 
 
-## Projects
-Here are some of my projects that I have made which I consider to be 'okay'
-
-<p align="center">
-  <a href="https://github.com/ZumTheZazaKing/areyoudepressed"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=areyoudepressed&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="http://github.com/ZumTheZazaKing/zumtube"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=zumtube&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/ZumTheZazaKing/notiz"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=notiz&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/ZumTheZazaKing/covid3d"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=covid3d&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/ZumTheZazaKing/coleren"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=coleren&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/ZumTheZazaKing/notiz-mobile"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zumthezazaking&repo=notiz-mobile&theme=tokyonight&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-</p>
-
-
 ## Github Stats
 
 <p align="center">
@@ -56,7 +43,7 @@ Here are some of my projects that I have made which I consider to be 'okay'
 
 
 ---
-<p align="center"> © 2021 ZumTheZazaKing, all rights reserved. Made with ❤️ &nbsp; for a better web. </p>
+<p align="center"> © 2024 ZumTheZazaKing, all rights reserved. Made with ❤️ &nbsp; for a better web. </p>
 <p align="center">
 https://zumthezazaking.netlify.app
 </p>
