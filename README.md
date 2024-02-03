@@ -45,7 +45,7 @@ When I'm not busy I can be found:
 ---
 <p align="center"> © 2024 ZumTheZazaKing, all rights reserved. Made with ❤️ &nbsp; for a better web. </p>
 <p align="center">
-<a target="_blank" href="https://zumthezazaking.netlify.app">https://zumthezazaking.netlify.app</a>
+https://zumthezazaking.netlify.app
 </p>
 
 
