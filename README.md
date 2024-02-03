@@ -43,7 +43,7 @@ When I'm not busy I can be found:
 
 
 ---
-<p align="center"> © 2024 ZumTheZazaKing, all rights reserved. Made with ❤️ &nbsp; for a better web. </p>
+<p align="center"> © 2024 ZumTheZazaKing, All Rights Reserved. Made with ❤️ for a better web. </p>
 <p align="center">
 https://zumthezazaking.netlify.app
 </p>
