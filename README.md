@@ -21,7 +21,7 @@ When I'm not busy I can be found:
 
 ## Current Skills
 <p align="center">
-		<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java,lua,jquery,regex,sass,tailwind,react,vue,flask,nextjs,nodejs,materialui,firebase,git,github,netlify,md,mysql,vscode,wordpress,godot,blender" />
+		<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java,lua,kotlin,jquery,regex,sass,tailwind,bootstrap,react,vue,laravel,flask,nextjs,nodejs,npm,express,materialui,threejs,firebase,git,github,netlify,md,mysql,sublime,vscode,androidstudio,wordpress,godot,robloxstudio,blender,vite" />
 </p>
 
 
