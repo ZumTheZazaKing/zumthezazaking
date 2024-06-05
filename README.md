@@ -31,7 +31,10 @@ When I'm not busy I can be found:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zumthezazaking&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /><br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zumthezazaking&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="My github stats" /><br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumthezazaking&layout=compact&theme=tokyonight&hide_border=true" />
-  <a href="https://app.daily.dev/zumthezazaking"><img src="https://api.daily.dev/devcards/v2/SDmPbJLav.png?type=default&r=8o5" width="356" alt="Muhammad Zahidi's Dev Card"/></a>
+</p>
+
+<p align="center">
+	<a href="https://app.daily.dev/zumthezazaking"><img src="https://api.daily.dev/devcards/v2/SDmPbJLav.png?type=default&r=8o5" width="356" alt="Muhammad Zahidi's Dev Card"/></a>
 </p>
 
 ## Contact Me
