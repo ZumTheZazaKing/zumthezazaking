@@ -34,7 +34,7 @@ When I'm not busy I can be found:
 </p>
 
 <p align="center">
-	<a href="https://app.daily.dev/zumthezazaking"><img src="https://api.daily.dev/devcards/v2/SDmPbJLav.png?type=default&r=8o5" width="356" alt="Muhammad Zahidi's Dev Card"/></a>
+	<a href="https://app.daily.dev/zumthezazaking"><img src="./devcard.png" width="356" alt="Muhammad Zahidi's Dev Card"/></a>
 </p>
 
 ## Contact Me
