@@ -5,18 +5,17 @@
 # Hi there ✋!
 
 ## About
-I'm a college student currently learning database management and web application. I like frontend more than backend. I'm still learning and I don't think highly of my skills so please don't bully me 😢
-
+I'm still learning so please don't find it surprising if my knowledge on certain things is lacking. I'm very versatile in what I can do and I can quickly adapt to new things. I'm kinda like a jack-of-all-trades, master of none but that's usually better than a master of one.
 
 ## Hobbies
 When I'm not busy I can be found:
 
-💻.  Programming<br/>
-📚.  Reading<br/>
-🎮.  Gaming<br/>
-🖋.  Writing<br/>
-📱.  Playing with my phone<br/>
-👁.  Staring into the infinite void<br/>
+💻.  Developing Personal Projects<br/>
+📚.  Reading Interesting Stuff<br/>
+🎮.  Gaming (usually on ROBLOX because it doesn't kill my laptop)<br/>
+📽️.  Video Editing
+📱.  Doomscrolling (help)<br/>
+👁.  Thinking about my past choices<br/>
 
 
 ## Current Skills
