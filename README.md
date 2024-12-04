@@ -49,13 +49,3 @@ When I'm not busy I can be found:
 <p align="center">
 https://zumthezazaking.netlify.app
 </p>
-
-
-
-
-
-
-
-
-
-
