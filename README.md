@@ -12,8 +12,8 @@ When I'm not busy I can be found:
 
 💻.  Developing Personal Projects<br/>
 📚.  Reading Interesting Stuff<br/>
-🎮.  Gaming (usually on ROBLOX because it doesn't kill my laptop)<br/>
-📽️.  Video Editing
+🎮.  Gaming (games that don't kill my laptop)<br/>
+📽️.  Video Editing<br/>
 📱.  Doomscrolling (help)<br/>
 👁.  Thinking about my past choices<br/>
 
