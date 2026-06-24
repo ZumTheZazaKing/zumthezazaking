@@ -13,6 +13,7 @@ When I'm not busy I can be found:
 💻.  Developing Personal Projects<br/>
 📚.  Reading Interesting Stuff<br/>
 🎮.  Gaming (games that don't kill my laptop)<br/>
+⚙️.  Developing games (horror usually)
 📽️.  Video Editing<br/>
 📱.  Doomscrolling (help)<br/>
 👁.  Thinking about my past choices<br/>
@@ -20,7 +21,7 @@ When I'm not busy I can be found:
 
 ## Current Skills
 <p align="center">
-		<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java,lua,kotlin,jquery,regex,sass,tailwind,bootstrap,react,vue,laravel,flask,nextjs,nodejs,npm,express,materialui,threejs,firebase,git,github,netlify,md,mysql,sublime,vscode,androidstudio,wordpress,godot,robloxstudio,blender,vite" />
+		<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java,lua,kotlin,jquery,regex,sass,tailwind,bootstrap,react,vue,laravel,flask,nextjs,nodejs,npm,express,materialui,threejs,firebase,git,github,netlify,md,mysql,sublime,vscode,androidstudio,wordpress,godot,robloxstudio,blender,vite,linux,docker" />
 </p>
 
 
@@ -35,17 +36,8 @@ When I'm not busy I can be found:
 <p align="center">
 	<a href="https://app.daily.dev/zumthezazaking"><img src="https://api.daily.dev/devcards/v2/SDmPbJLav.png?type=default&r=8o5" width="356" alt="Muhammad Zahidi's Dev Card"/></a>
 </p>
-
-## Contact Me
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/zumthezazaking)
-[<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/puroguramaz)
-[<img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:zahidi85543@gmail.com)
-[<img alt="Reddit" src="https://img.shields.io/badge/reddit-%23ff4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/puroguramaz)
-[<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/zumthezazaking/)
-
-
 ---
-<p align="center"> © 2024 ZumTheZazaKing, All Rights Reserved. Made with ❤️ for a better web. </p>
+<p align="center"> © 2026 ZumTheZazaKing, All Rights Reserved. Made with ❤️ for a better web. </p>
 <p align="center">
 https://zumthezazaking.netlify.app
 </p>
